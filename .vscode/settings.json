@@ -1,0 +1,13 @@
+{
+    "editor.detectIndentation": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "eslint.alwaysShowStatus": true,
+    "eslint.validate": [
+        "vue",
+        "javascript",
+        "html"
+    ],
+    "liveServer.settings.port": 5501,
+}
